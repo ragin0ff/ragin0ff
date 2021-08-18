@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ragin0ff
+- 👀 I’m interested in Data Engeneering
