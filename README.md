@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate DWH Analyst with a keen interest in evolving into a Fullstack role, encompassing both Analytics and Data Engineering. My journey in the tech world is driven by a curiosity to understand how things work from the inside out, which has led me to delve into Reverse Engineering as a hobby. I thrive on challenges that allow me to dissect and reimagine data structures, creating efficient and innovative solutions.
+I'm a passionate DWH specialist with a keen interest in evolving into a Fullstack role, encompassing both Analytics and Data Engineering. My journey in the tech world is driven by a curiosity to understand how things work from the inside out, which has led me to delve into Reverse Engineering as a hobby. I thrive on challenges that allow me to dissect and reimagine data structures, creating efficient and innovative solutions.
 
 ## My Journey 🚀
 
