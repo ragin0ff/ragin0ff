@@ -8,7 +8,6 @@ I'm a passionate DWH specialist with a keen interest in evolving into a Fullstac
 
 - 🎓 With a solid foundation in data architecture, I've spent 3+ designing and implementing data solutions that empower businesses to unlock the value of their data.
 - 🌱 Currently, I'm on a mission to broaden my skillset by mastering Fullstack technologies, focusing on Analytics and Data Engineering. My goal is to create seamless data pipelines and analytics platforms that drive data-driven decision making.
-- 🔍 In my spare time, I enjoy exploring the intricacies of software and hardware through Reverse Engineering. This hobby has not only satisfied my curiosity but also sharpened my problem-solving skills and deepened my understanding of software architecture.
 
 ## Technologies & Tools 🛠️
 
@@ -17,6 +16,5 @@ I'm a passionate DWH specialist with a keen interest in evolving into a Fullstac
 - **Data Engineering:** Apache Spark, Hadoop, Airflow
 - **Analytics & BI Tools:** Power BI, Tableau, FineBi, DataLens
 - **Programming Languages:** SQL, Python
-- **Reverse Engineering Tools:** IDA Pro, x64dbg
 
 Let's make data-driven decisions the norm, not the exception!
